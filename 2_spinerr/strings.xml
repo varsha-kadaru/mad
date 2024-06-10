@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="app_name">
+        <item>state100</item>
+        <item>state10</item>
+        <item>state1</item>
+    </string-array>
+</resources>
